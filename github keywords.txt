@@ -1,0 +1,18 @@
+--------------Here are the **key points in simple sentences**:-----------------------------------
+
+* **Git** is a version control system used to track changes in source code.
+
+* **Git** works on a local computer and does not require the internet.
+
+* **Git** helps developers create commits, branches, and merge code.
+
+* **GitHub** is an online platform used to store Git repositories.
+
+* **GitHub** requires the internet and works on the cloud.
+
+* **GitHub** helps developers share code and collaborate using pull requests and issues.
+
+**In short:** Git manages code versions, while GitHub helps share and collaborate on that code.
+
+-------------------------------------------------------------------------------------------------
+
